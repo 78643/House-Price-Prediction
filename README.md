@@ -1,8 +1,7 @@
-# House-Price-Prediction
-🏡 House Price Prediction using Machine Learning In this project, I built a predictive model that estimates house prices based on key features like area, location, number of bedrooms, bathrooms, etc. Using supervised learning algorithm.
 # 🏠 House Price Prediction using Supervised Learning
 
 This project aims to predict house prices based on key features like area, number of bedrooms, bathrooms, and location. It uses **Supervised Learning** techniques to build accurate models that assist in real estate decision-making.
+🏡 House Price Prediction using Machine Learning In this project, I built a predictive model that estimates house prices based on key features like area, location, number of bedrooms, bathrooms, etc. Using supervised learning algorithm.
 
 ---
 
@@ -31,6 +30,4 @@ To develop a predictive model that estimates house prices using **Linear Regress
 - 🔹 Model Evaluation (R² Score, MSE, RMSE)
 
 ---
-
-## 📁 Project Structure
 
