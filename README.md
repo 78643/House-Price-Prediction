@@ -49,19 +49,12 @@ The project aims to help users understand the influence of key features like are
 ## 📂 Project Workflow
 
 - **Data Collection** – Import housing dataset (CSV).
-
 - **Exploratory Data Analysis (EDA)** – Understand data with Pandas, Seaborn, Matplotlib.
-
 - **Feature Engineering** – Encode categorical variables, handle missing values.
-
 - **Model Building** – Linear Regression & Random Forest.
-
 - **Model Evaluation** – Compare models with R² Score, MSE, RMSE.
-
 - **Flask Integration** – Load saved ML model (model.pkl) and connect with UI.
-
 - **Frontend** – Users input property details, get predicted price.
-
 - **Deployment** – Run locally with Flask, extendable to cloud hosting.
 
 ---
