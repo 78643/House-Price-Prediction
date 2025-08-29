@@ -37,32 +37,32 @@ The project aims to help users understand the influence of key features like are
 
 ## 📚 Core Features
 
-**🔹 Data Preprocessing** – Cleaning & preparing dataset for ML
-**🔹 Model Training** – Linear Regression & Random Forest Regressor
-**🔹 Price Prediction** – Predicts house prices based on user input
-**🔹 Interactive UI** – User-friendly web interface via Flask
-**🔹 Model Evaluation** – R² Score, MSE, RMSE for performance check
-**🔹 Deployment Ready** – Flask app for easy local deployment
+- **🔹 Data Preprocessing** – Cleaning & preparing dataset for ML
+- **🔹 Model Training** – Linear Regression & Random Forest Regressor
+- **🔹 Price Prediction** – Predicts house prices based on user input
+- **🔹 Interactive UI** – User-friendly web interface via Flask
+- **🔹 Model Evaluation** – R² Score, MSE, RMSE for performance check
+- **🔹 Deployment Ready** – Flask app for easy local deployment
 
 ---
 
 ## 📂 Project Workflow
 
-**Data Collection** – Import housing dataset (CSV).
+- **Data Collection** – Import housing dataset (CSV).
 
-**Exploratory Data Analysis (EDA)** – Understand data with Pandas, Seaborn, Matplotlib.
+- **Exploratory Data Analysis (EDA)** – Understand data with Pandas, Seaborn, Matplotlib.
 
-**Feature Engineering** – Encode categorical variables, handle missing values.
+- **Feature Engineering** – Encode categorical variables, handle missing values.
 
-**Model Building** – Linear Regression & Random Forest.
+- **Model Building** – Linear Regression & Random Forest.
 
-**Model Evaluation** – Compare models with R² Score, MSE, RMSE.
+- **Model Evaluation** – Compare models with R² Score, MSE, RMSE.
 
-**Flask Integration** – Load saved ML model (model.pkl) and connect with UI.
+- **Flask Integration** – Load saved ML model (model.pkl) and connect with UI.
 
-**Frontend** – Users input property details, get predicted price.
+- **Frontend** – Users input property details, get predicted price.
 
-**Deployment** – Run locally with Flask, extendable to cloud hosting.
+- **Deployment** – Run locally with Flask, extendable to cloud hosting.
 
 ---
 
