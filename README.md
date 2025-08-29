@@ -90,7 +90,7 @@ If you like this project, ⭐ star the repository on GitHub and share your feedb
 
 **📧 Email:** rashmikumari21916@gmail.com
 
-**💻 GitHub:** 78643
+**💻 GitHub:** https://github.com/78643
 
 ---
 
