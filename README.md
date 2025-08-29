@@ -15,23 +15,23 @@ The project aims to help users understand the influence of key features like are
 
 ## 🔍 Technologies & Tools Used
 
-**Python 🐍**
+- **Python 🐍**
 
-**Flask 🌐** (Backend Framework)
+- **Flask 🌐** (Backend Framework)
 
-**NumPy & Pandas 📊** (Data Processing)
+- **NumPy & Pandas 📊** (Data Processing)
 
-**Matplotlib & Seaborn 📈** (Data Visualization)
+- **Matplotlib & Seaborn 📈** (Data Visualization)
 
-**Scikit-learn 🤖** (Machine Learning Models)
+- **Scikit-learn 🤖** (Machine Learning Models)
 
-**HTML5, CSS3, JavaScript 🎨** (Frontend for User Interaction)
+- **HTML5, CSS3, JavaScript 🎨** (Frontend for User Interaction)
 
-**Jinja2** (Templating Engine)
+- **Jinja2** (Templating Engine)
 
-**Git & GitHub 🔗** (Version Control)
+- **Git & GitHub 🔗** (Version Control)
 
-**Jupyter Notebook 📓** (Model Training & Experiments)
+- **Jupyter Notebook 📓** (Model Training & Experiments)
 
 ---
 
@@ -68,20 +68,20 @@ The project aims to help users understand the influence of key features like are
 
 ## 🎯 Uses & Applications
 
-🏘️ Useful for real estate agents, buyers, sellers to estimate fair prices.
-📊 Helps in data-driven decision making.
-🎓 Great learning project for beginners in Machine Learning + Flask.
-💼 Can be extended into a real-world property pricing system.
+- 🏘️ Useful for real estate agents, buyers, sellers to estimate fair prices.
+- 📊 Helps in data-driven decision making.
+- 🎓 Great learning project for beginners in Machine Learning + Flask.
+- 💼 Can be extended into a real-world property pricing system.
 
 ---
 
 ## 🔮 Future Enhancements
 
-✅ User Authentication (Login/Signup)
-✅ Database Integration (SQLite/MySQL) for storing predictions
-✅ Responsive UI using Bootstrap/Tailwind
-✅ Integration with live property datasets / APIs
-✅ Add more ML models like XGBoost, LightGBM for higher accuracy
+- ✅ User Authentication (Login/Signup)
+- ✅ Database Integration (SQLite/MySQL) for storing predictions
+- ✅ Responsive UI using Bootstrap/Tailwind
+- ✅ Integration with live property datasets / APIs
+- ✅ Add more ML models like XGBoost, LightGBM for higher accuracy
 
 ---
 
@@ -93,7 +93,7 @@ If you like this project, ⭐ star the repository on GitHub and share your feedb
 
 ## 📬 Connect With Me
 
-**🔗 LinkedIn:** Rashmi Kumari
+**🔗 LinkedIn:** https://www.linkedin.com/in/rashmi-kumari-39a42829b/
 
 **📧 Email:** rashmikumari21916@gmail.com
 
