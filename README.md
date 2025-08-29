@@ -2,37 +2,40 @@
 
 This project is a Machine Learning-based House Price Prediction System built using Python & Flask.
 It allows users to input property details (area, location, bedrooms, bathrooms, etc.) and get an estimated house price instantly.
+It demonstrates Machine Learning + Full-Stack Development with an interactive frontend, Flask backend, and trained ML models.
 
 ---
 
-It demonstrates Machine Learning + Full-Stack Development with an interactive frontend, Flask backend, and trained ML models.
-
-✅ Project Objective
+## ✅ Project Objective
 
 To develop a predictive model that estimates house prices using Supervised Learning Algorithms such as Linear Regression and Random Forest.
 The project aims to help users understand the influence of key features like area, location, bedrooms, and bathrooms on house pricing.
 
-🔍 Technologies & Tools Used
+---
 
-Python 🐍
+## 🔍 Technologies & Tools Used
 
-Flask 🌐 (Backend Framework)
+**Python 🐍**
 
-NumPy & Pandas 📊 (Data Processing)
+**Flask 🌐** (Backend Framework)
 
-Matplotlib & Seaborn 📈 (Data Visualization)
+**NumPy & Pandas 📊** (Data Processing)
 
-Scikit-learn 🤖 (Machine Learning Models)
+**Matplotlib & Seaborn 📈** (Data Visualization)
 
-HTML5, CSS3, JavaScript 🎨 (Frontend for User Interaction)
+**Scikit-learn 🤖** (Machine Learning Models)
 
-Jinja2 (Templating Engine)
+**HTML5, CSS3, JavaScript 🎨** (Frontend for User Interaction)
 
-Git & GitHub 🔗 (Version Control)
+**Jinja2** (Templating Engine)
 
-Jupyter Notebook 📓 (Model Training & Experiments)
+**Git & GitHub 🔗** (Version Control)
 
-📚 Core Features
+**Jupyter Notebook 📓** (Model Training & Experiments)
+
+---
+
+## 📚 Core Features
 
 🔹 Data Preprocessing – Cleaning & preparing dataset for ML
 🔹 Model Training – Linear Regression & Random Forest Regressor
