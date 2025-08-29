@@ -37,39 +37,45 @@ The project aims to help users understand the influence of key features like are
 
 ## 📚 Core Features
 
-🔹 Data Preprocessing – Cleaning & preparing dataset for ML
-🔹 Model Training – Linear Regression & Random Forest Regressor
-🔹 Price Prediction – Predicts house prices based on user input
-🔹 Interactive UI – User-friendly web interface via Flask
-🔹 Model Evaluation – R² Score, MSE, RMSE for performance check
-🔹 Deployment Ready – Flask app for easy local deployment
+**🔹 Data Preprocessing** – Cleaning & preparing dataset for ML
+**🔹 Model Training** – Linear Regression & Random Forest Regressor
+**🔹 Price Prediction** – Predicts house prices based on user input
+**🔹 Interactive UI** – User-friendly web interface via Flask
+**🔹 Model Evaluation** – R² Score, MSE, RMSE for performance check
+**🔹 Deployment Ready** – Flask app for easy local deployment
 
-📂 Project Workflow
+---
 
-Data Collection – Import housing dataset (CSV).
+## 📂 Project Workflow
 
-Exploratory Data Analysis (EDA) – Understand data with Pandas, Seaborn, Matplotlib.
+**Data Collection** – Import housing dataset (CSV).
 
-Feature Engineering – Encode categorical variables, handle missing values.
+**Exploratory Data Analysis (EDA)** – Understand data with Pandas, Seaborn, Matplotlib.
 
-Model Building – Linear Regression & Random Forest.
+**Feature Engineering** – Encode categorical variables, handle missing values.
 
-Model Evaluation – Compare models with R² Score, MSE, RMSE.
+**Model Building** – Linear Regression & Random Forest.
 
-Flask Integration – Load saved ML model (model.pkl) and connect with UI.
+**Model Evaluation** – Compare models with R² Score, MSE, RMSE.
 
-Frontend – Users input property details, get predicted price.
+**Flask Integration** – Load saved ML model (model.pkl) and connect with UI.
 
-Deployment – Run locally with Flask, extendable to cloud hosting.
+**Frontend** – Users input property details, get predicted price.
 
-🎯 Uses & Applications
+**Deployment** – Run locally with Flask, extendable to cloud hosting.
+
+---
+
+## 🎯 Uses & Applications
 
 🏘️ Useful for real estate agents, buyers, sellers to estimate fair prices.
 📊 Helps in data-driven decision making.
 🎓 Great learning project for beginners in Machine Learning + Flask.
 💼 Can be extended into a real-world property pricing system.
 
-🔮 Future Enhancements
+---
+
+## 🔮 Future Enhancements
 
 ✅ User Authentication (Login/Signup)
 ✅ Database Integration (SQLite/MySQL) for storing predictions
@@ -77,62 +83,25 @@ Deployment – Run locally with Flask, extendable to cloud hosting.
 ✅ Integration with live property datasets / APIs
 ✅ Add more ML models like XGBoost, LightGBM for higher accuracy
 
-📌 License
+---
 
-This project is licensed under the MIT License – free to use and modify.
-
-🌟 Show your support
+## 🌟 Show your support
 
 If you like this project, ⭐ star the repository on GitHub and share your feedback!
 
-📬 Connect With Me
+---
 
-🔗 LinkedIn: Rashmi Kumari
+## 📬 Connect With Me
 
-📧 Email: rashmikumari21916@gmail.com
+**🔗 LinkedIn:** Rashmi Kumari
 
-💻 GitHub: 78643
+**📧 Email:** rashmikumari21916@gmail.com
 
-🏷️ Hashtags
+**💻 GitHub:** 78643
+
+---
+
+## 🏷️ Hashtags
 
 #Python #Flask #MachineLearning #HousePricePrediction #WebDevelopment #FullStack #DataScience #LinearRegression #RandomForest #MLProject #SupervisedLearning #DataVisualization #CRUD #OpenSource #GitHub #ProjectShowcase #Coding #LearningByDoing #Developer #TechProjects #Innovation
 
-# 📖 Contact Book Web Application
-
-This project is a **web-based Contact Book** built with **Flask (Python)** that allows users to **add, update, search, and delete contacts**.  
-It demonstrates **full-stack development skills** with an interactive frontend, Flask backend, and CRUD operations.
-
----
-
-## ✅ Project Objective
-To develop a **Contact Management System** where users can store, manage, and organize their personal and professional contacts digitally.  
-The app provides a simple, intuitive, and responsive interface for efficient usage.
-
----
-
-## 🔍 Technologies & Tools Used
-- **Python 🐍**  
-- **Flask 🌐 (Backend Framework)**  
-- **HTML5, CSS3, JavaScript 🎨** (Frontend)  
-- **Jinja2** (Templating Engine)  
-- **Git & GitHub 🔗** (Version Control)  
-- **Browser DevTools 🛠️** (Debugging & Testing)  
-
----
-
-## 📚 Core Features
-- ➕ **Add Contacts** – Save details like Name, Phone Number, Email  
-- ✏️ **Edit Contacts** – Update existing information  
-- 🔍 **Search Contacts** – Quickly find any saved contact  
-- ❌ **Delete Contacts** – Remove unwanted entries  
-- 📂 **Organized UI** – User-friendly and responsive design  
-- ⚡ **Lightweight Deployment** – Easy to run with `requirements.txt`  
-
----
-
-## 📂 Project Workflow
-1. **Frontend** – Designed using HTML, CSS, and JavaScript for interactive UI  
-2. **Backend** – Flask handles routes, requests, and data management  
-3. **CRUD Operations** – Contacts can be added, edited, searched, or deleted  
-4. **Templating** – Jinja2 ensures scalable and structured design  
-5. **Deployment** – App runs locally via Flask server  
